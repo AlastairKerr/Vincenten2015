@@ -1,0 +1,9 @@
+ChIP-Seq samples were analysed on a HiSeq2000 instrument (Illumina) by
+the EMBL Core Genomics Facility (Heidelberg, Germany). Using BWA
+(Version: 0.7.5a-r405) (48), single reads were mapped to the sacCer3
+reference genome. Duplicate reads were removed for parallel analysis
+using SAMtools (Version 1.2) (49) . The data shown was normalised to
+the number of reads per million of total mapped reads (RPM). The total
+mapped reads were established after any processing. Additional scripts
+for processing data around the pericentromeres can be found at
+https://github.com/AlastairKerr/Vincenten2015.
